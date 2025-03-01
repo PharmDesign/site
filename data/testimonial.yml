@@ -1,0 +1,39 @@
+enable  : true
+title   : "L'avis de nos clients"
+subtitle: "Découvrez ce que nos clients disent de nous"
+testimonial_item :
+  - thumb : "images/testimonial/user-thumb-one.jpg"
+    name  : "Simonns Hodge"
+    company_position: "CEO, Credito"
+    quote : > 
+            "Croyez-nous, nous avons cherché longtemps et gaspillé des milliers d'euros à tester d'autres équipes, freelancers et sociétés de sous-traitance." 
+
+  - thumb : "images/testimonial/user-thumb-two.jpg"
+    name  : "Rekon Montino"
+    company_position: "CDO, Bulmuci"
+    quote : > 
+            "PharmDesign a mis le merchandising de notre pharmacie en ligne sur une nouvelle voie. Leur équipe a été très professionnelle et a su répondre à nos besoins." 
+
+  - thumb : "images/testimonial/user-thumb-three.jpg"
+    name  : "Ryan Hillary"
+    company_position: "MD, Udilamo"
+    quote : > 
+            "Nous ne savions pas par où commencer, mais PharmDesign nous a aidés à mettre en place une stratégie de marketing qui a donné des résultats." 
+
+  - thumb : "images/testimonial/user-thumb-four.jpg"
+    name  : "Dockrel Kahn"
+    company_position: "PM, Walmet"
+    quote : > 
+            "Nous avons été très satisfaits de la qualité du travail fourni par PharmDesign. Ils ont été très réactifs et ont respecté les délais." 
+
+  - thumb : "images/testimonial/user-thumb-five.jpg"
+    name  : "Orino Monteno"
+    company_position: "CEO, Axion"
+    quote : > 
+            "Quels changements ! Enfin une équipe qui comprend notre métier et qui a su nous proposer une stratégie de communication adaptée." 
+
+  - thumb : "images/testimonial/user-thumb-six.jpg"
+    name  : "Welfo Roy"
+    company_position: "PDO, Komoyo"
+    quote : > 
+            "C'est très simple : nous avons vu une augmentation de 200% de notre chiffre d'affaires grâce à PharmDesign."

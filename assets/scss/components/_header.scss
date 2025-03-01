@@ -1,0 +1,22 @@
+.site-navigation{
+  background: $main-color;
+
+  .navbar-brand {
+    max-width: calc(100% - 100px);
+    img {
+      width: 400px;
+      max-width: 100%;
+    }
+  }
+  .nav-item {
+    .nav-link {
+      color: #fff;
+    }
+  }
+
+}
+.site-hero-content-buttons li {
+  .btn {
+    min-width: 250px;
+  }
+}

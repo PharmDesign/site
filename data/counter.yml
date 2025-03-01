@@ -1,0 +1,14 @@
+enable : true
+heading : "Les chiffres clés"
+counter_item:
+  - title: "Clients ravis"
+    number: "250"
+
+  - title: "Projets réalisés"
+    number: "100"
+
+  - title: "Cafés bus"
+    number: "350"
+
+  - title: "Les heures de travail"
+    number: "775"
